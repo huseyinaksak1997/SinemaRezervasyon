@@ -1,0 +1,8 @@
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\obj\Debug\SinemaRezervasyonuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\bin\Debug\SinemaRezervasyonuSistemi.exe.config
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\bin\Debug\SinemaRezervasyonuSistemi.exe
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\bin\Debug\SinemaRezervasyonuSistemi.pdb
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\obj\Debug\SinemaRezervasyonuSistemi.exe
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\obj\Debug\SinemaRezervasyonuSistemi.pdb
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\obj\Debug\SinemaRezervasyonuSistemi.csproj.AssemblyReference.cache
+C:\Users\hüseyin aksak\source\repos\SinemaRezervasyonuSistemi\SinemaRezervasyonuSistemi\obj\Debug\SinemaRezervasyonuSistemi.csproj.SuggestedBindingRedirects.cache
